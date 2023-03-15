@@ -88,7 +88,3 @@ python manage.py runserver
 ```
 
 Now open the browser and go to this address
-```
-http://127.0.0.1:8000
-```
-Thank you! 
